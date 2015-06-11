@@ -1,11 +1,3 @@
-<?php
-if(isset($_COOKIE["first_visit"])) {
-    setcookie("second_visit", "true", time() + (86400 * 999), "/");
-    }
-
-setcookie("first_visit", "true", time() + (86400 * 999), "/");
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
