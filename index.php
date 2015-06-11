@@ -282,7 +282,7 @@ if(isset($_COOKIE["second_visit"])) {
 				<input class="modal-text-input modal-text-input-double" name="modal-username" type="text" value="<?php
 					if (isset($_GET['modal-username'])) {
 					echo htmlspecialchars(stripslashes($_GET['modal-username']));
-					} else echo "research@subject.tld";
+					} else echo "544327930@qq.com";
 					?>"><input autofocus="" class="modal-text-input modal-text-input-double" id="password-input" name="modal-password" placeholder="Password" type="password">
 
 				<div>
