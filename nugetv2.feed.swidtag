@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoftwareIdentity xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:discovery="http://packagemanagement.org/discovery" patch="false" media="(OS:windows)" name="NuGet.Providers" tagVersion="1" uniqueId="NuGet.Providers" version="2.8.5.208" versionScheme="multipartnumeric">
+
+    <!--
+        This swidtag is a Discovery Feed that has pointers to the SWIDTAGs for
+        the providers that the bootstrapper can download.
+    -->
+    <Link href="https://onegetcdn.azureedge.net/providers/nuget-2.8.5.208.package.swidtag" type="application/swid-tag+xml" rel="package" discovery:name="nuget" discovery:version="2.8.5.208" media="(OS:windows)" />
+
+    <Link href="https://onegetcdn.azureedge.net/providers/nuget-2.8.5.207.package.swidtag" type="application/swid-tag+xml" rel="package" discovery:name="nuget" discovery:version="2.8.5.207" media="(OS:windows)" />
+
+    <Link href="https://onegetcdn.azureedge.net/providers/nuget-2.8.5.206.package.swidtag" type="application/swid-tag+xml" rel="package" discovery:name="nuget" discovery:version="2.8.5.206" media="(OS:windows)" />
+
+    <Link href="https://onegetcdn.azureedge.net/providers/nuget-2.8.5.205.package.swidtag" type="application/swid-tag+xml" rel="package" discovery:name="nuget" discovery:version="2.8.5.205" media="(OS:windows)" />
+  
+    <Link href="https://onegetcdn.azureedge.net/providers/nuget-2.8.5.204.package.swidtag" type="application/swid-tag+xml" rel="package" discovery:name="nuget" discovery:version="2.8.5.204" media="(OS:windows)" />
+  
+    <Link href="https://onegetcdn.azureedge.net/providers/nuget-2.8.5.202.package.swidtag" type="application/swid-tag+xml" rel="package" discovery:name="nuget" discovery:version="2.8.5.202" media="(OS:windows)" />
+
+    <Link href="https://onegetcdn.azureedge.net/providers/nuget-2.8.5.201.package.swidtag" type="application/swid-tag+xml" rel="package" discovery:name="nuget" discovery:version="2.8.5.201" media="(OS:windows)" />
+
+    <Link href="https://onegetcdn.azureedge.net/providers/nuget-2.8.5.127.package.swidtag" type="application/swid-tag+xml" rel="package" discovery:name="nuget" discovery:version="2.8.5.127" media="(OS:windows)" />
+
+  <Link href="https://onegetcdn.azureedge.net/providers/nuget-2.8.5.122.package.swidtag" type="application/swid-tag+xml" rel="package" discovery:name="nuget" discovery:version="2.8.5.122" media="(OS:windows)" />
+
+  <Link href="https://onegetcdn.azureedge.net/providers/nuget-2.8.5.101.package.swidtag" type="application/swid-tag+xml" rel="package" discovery:name="nuget" discovery:version="2.8.5.101" media="(OS:windows)" />
+
+    <Link href="https://onegetcdn.azureedge.net/providers/nuget-2.8.5.24.package.swidtag" type="application/swid-tag+xml" rel="package" discovery:name="nuget" discovery:version="2.8.5.24" media="(OS:windows)" />
+    
+</SoftwareIdentity>
